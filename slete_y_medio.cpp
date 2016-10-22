@@ -19,5 +19,7 @@ using namespace std;
 // Stub for main
 int main(){
    /* --STATEMENTS-- */
+   std:cout << This statement has no quotations.
+   //above statement cannot compile because it is not surrounded by quotations
    return 0;
 }
